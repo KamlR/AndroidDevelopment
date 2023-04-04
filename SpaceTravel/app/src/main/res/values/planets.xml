@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="q_planets_array">
+        <item name="one_q">How many volcanoes are there on the surface of Venus\?</item>
+        <item name="two_q">Which planet is the brightest in the night sky\?</item>
+        <item name="three_q">Which planet is closest to the sun\?</item>
+        <item name="four_q">Phobos and Deimos are satellites of which planet\?</item>
+        <item name="five_q">What protects the Earth from meteorites and solar radiation\?</item>
+        <item name="six_q">How many planets can you see without a telescope\?</item>
+        <item name="seven_q">Which planet rotates around its axis the fastest\?</item>
+        <item name="eight_q">How long does a year last on Neptune\?</item>
+        <item name="nine_q">How long does it take for the sun\'s rays to reach the Earth\?</item>
+        <item name="ten_q">What color is the sunset on Mars\?</item>
+    </string-array>
+    <string-array name="a_planets_array">
+        <item name="one_a">1600</item>
+        <item name="two_a">Venus</item>
+        <item name="three_a">Mercury</item>
+        <item name="four_a">Mars</item>
+        <item name="five_a">Atmosphere</item>
+        <item name="six_a">Five</item>
+        <item name="seven_a">Jupiter</item>
+        <item name="eight_a">165 earth years</item>
+        <item name="nine_a">Eight minutes</item>
+        <item name="ten_a">Blue</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="q_stars_array">
+        <item name="one_q">What type of stars are found most often in the Milky Way?</item>
+        <item name="two_q">Which stars in the universe have a rotation speed of 600 revolutions per second?</item>
+        <item name="three_q">How many stars make up the Big Dipper?</item>
+        <item name="four_q">In which constellation are the stars Castor and Pollux?</item>
+        <item name="five_q">In which constellation is the polar star located?</item>
+        <item name="six_q">The second closest star to Earth?</item>
+        <item name="seven_q">Сan a star turn into a black hole?</item>
+        <item name="eight_q">What determines the brightness of the star?</item>
+        <item name="nine_q">What are the stars mostly consists of\?</item>
+        <item name="ten_q">Which star is the brightest in the night sky?</item>
+    </string-array>
+    <string-array name="a_stars_array">
+        <item name="one_a">Red dwarfs</item>
+        <item name="two_a">Neutron stars</item>
+        <item name="three_a">Seven stars</item>
+        <item name="four_a">Twins</item>
+        <item name="five_a">Ursa Minor</item>
+        <item name="six_a">Proxima Centauri</item>
+        <item name="seven_a">Yes</item>
+        <item name="eight_a">Temperature and surface area</item>
+        <item name="nine_a">Hydrogen and Helium</item>
+        <item name="ten_a">Sirius</item>
+    </string-array>
+</resources>

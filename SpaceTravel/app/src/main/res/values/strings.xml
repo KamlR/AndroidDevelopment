@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpaceTravel</string>
+    <string name="task_name_planets">Which planet is shown in the picture?</string>
+    <string name="task_name_stars">Which constellation is shown in the picture?</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="a_image_stars_array">
+        <item name="one_a">Centaurus</item>
+        <item name="two_a">Cepheus</item>
+        <item name="three_a">Dragon</item>
+        <item name="four_a">Hydra</item>
+        <item name="five_a">Cassiopeia</item>
+    </string-array>
+</resources>

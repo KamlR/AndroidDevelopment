@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="a_image_planet_array">
+        <item name="one_a">Earth</item>
+        <item name="two_a">Jupiter</item>
+        <item name="three_a">Mars</item>
+        <item name="four_a">Mercury</item>
+        <item name="five_a">Neptune</item>
+        <item name="six_a">Pluto</item>
+        <item name="seven_a">Saturn</item>
+        <item name="eight_a">Uranus</item>
+        <item name="nine_a">Venus</item>
+    </string-array>
+</resources>
